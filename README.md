@@ -1,21 +1,7 @@
+# 🗺️ SimpleMap — Interactive Map System
 ![image alt](https://github.com/mtxmln-devs/SimpleMap_Leaflet.js/blob/58425a85f43d76f64a86ed68b2229b285207cf90/map.png)
 
-# 🗺️ SimpleMap — Interactive Map System
-
-<div align="center">
-
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-1.9.4-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-Modern-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Deploy](https://img.shields.io/badge/Deploy-Netlify%20%7C%20Vercel-00C7B7?style=for-the-badge)
-
-A quality interactive map system built with **Leaflet.js** featuring clustering,
-heatmaps, animations, search, responsive design, and premium UI/UX.
-
-[🎥 Live Demo](#-live-demo) · [🚀 Quick Start](#-quick-start) · [🔧 Customization](#-customization-guide) · [📱 Screenshots](#-screenshots)
-
-</div>
+## A quality interactive map system built with **Leaflet.js** featuring clustering, heatmaps, animations, search, responsive design, and premium UI/UX.
 
 ---
 
