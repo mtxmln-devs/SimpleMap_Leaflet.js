@@ -45,14 +45,26 @@
 
 ```
 SimpleMap_Leaflet.js/
-├── index.html          # Main entry point — fully self-contained
-├── map.png             # Preview screenshot
-├── screenshots/        # UI screenshots (desktop, mobile, etc.)
-├── README.md
-└── LICENSE
+│
+├── css/                    # 🎨 All CSS files - Modular & organized
+│   ├── animations.css      # ✨ Smooth transitions, hover effects, loading spinners
+│   ├── components.css      # 🧩 Reusable UI components (buttons, panels, cards)
+│   ├── main.css            # 🎯 Global styles, variables, resets, typography
+│   └── map.css             # 🗺️  Map-specific styles (controls, overlays, legend)
+│
+├── js/                     # ⚙️ JavaScript modules - Clean separation of concerns
+│   ├── app.js              # 🎮 Main app entry point, initialization, event hub
+│   ├── data.js             # 📊 Data management, API calls, sample data generation
+│   ├── map.js              # 🗺️  Core Leaflet map setup, layers, controls
+│   ├── markers.js          # 📍 Marker creation, clustering, heatmaps, popups
+│   └── ui.js               # 🎨 UI interactions, search, controls, responsive logic
+│
+├── index.html              # 📄 Single entry point - Loads everything
+├── map.png                 # 📸 Preview screenshot for README/GitHub
+└── README.md               # 📖 Documentation (this file!)
 ```
 
-> 💡 **No build step needed!** The entire app is a single `index.html` file.
+> 💡 **No build step needed!** The entire app will run on a `index.html` file.
 
 ---
 
