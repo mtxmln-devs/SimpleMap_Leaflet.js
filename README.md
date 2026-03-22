@@ -262,38 +262,6 @@ git push origin feature/amazing-feature
 
 ---
 
-## 💰 Enterprise Features *(Coming Soon)*
-
-- [ ] Real-time WebSocket updates
-- [ ] GeoJSON / KML import
-- [ ] Custom map projections
-- [ ] 3D globe view
-- [ ] AR / VR integration
-- [ ] White-label branding
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free for personal and commercial use.
-
-```
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-```
 
 ---
 
@@ -307,7 +275,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ---
 
 ## 👨‍💻 Author
-
 **mtxmln-devs**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mtxmln--devs-181717?style=flat-square&logo=github)](https://github.com/mtxmln-devs)
@@ -318,7 +285,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ⭐ **Star this repo if you found it useful!**
 
-🔔 Watch for updates & new features
 
 🐛 Found a bug? [Open an issue!](https://github.com/mtxmln-devs/SimpleMap_Leaflet.js/issues)
 
