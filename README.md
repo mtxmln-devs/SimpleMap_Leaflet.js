@@ -25,17 +25,6 @@
 
 ---
 
-## 🎥 Live Demo
-
-> 🚀 **[View Live Demo](https://your-demo-link.netlify.app)** — Deployed on Netlify / Vercel
-
----
-
-## 📱 Screenshots
-
-| Desktop | Mobile | Clustering | Heatmap |
-|---|---|---|---|
-| ![Desktop](screenshots/desktop.png) | ![Mobile](screenshots/mobile.png) | ![Clustering](screenshots/clustering.png) | ![Heatmap](screenshots/heatmap.png) |
 
 ---
 
