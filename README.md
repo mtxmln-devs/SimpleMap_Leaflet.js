@@ -8,13 +8,9 @@ Feature
 
 Status
 
-🗺️ Multiple Base Maps (Satellite, Streets, Terrain, Dark)
+🗺️ Multiple Base Maps (Satellite, Streets, Terrain, Dark)     ✅
 
-✅
-
-📍 5,000+ Dynamic Markers with custom animations
-
-✅
+📍 5,000+ Dynamic Markers with custom animations              ✅
 
 🔥 Real-time Heatmaps with gradient coloring
 
