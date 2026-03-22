@@ -4,33 +4,13 @@
 A quality interactive map system built with Leaflet.js featuring clustering, heatmaps, animations, search, responsive design, and premium UI/UX. 
 
 ✨ Features
-Feature
-
-Status
-
-🗺️ Multiple Base Maps (Satellite, Streets, Terrain, Dark)     ✅
-
-📍 5,000+ Dynamic Markers with custom animations              ✅
-
-🔥 Real-time Heatmaps with gradient coloring
-
-✅
-
-👥 Smart Marker Clustering with custom styling
-
-✅
-
-🔍 Instant Search with debouncing
-
-✅
-
-📊 Live Statistics (Total/Visible points)
-
-✅
-
-🎨 Premium Glassmorphism UI with backdrop blur
-
-✅
+🗺️ Multiple Base Maps (Satellite, Streets, Terrain, Dark)    ✅
+📍 5,000+ Dynamic Markers with custom animations             ✅
+🔥 Real-time Heatmaps with gradient coloring                 ✅
+👥 Smart Marker Clustering with custom styling               ✅
+🔍 Instant Search with debouncing                            ✅
+📊 Live Statistics (Total/Visible points)                    ✅
+🎨 Premium Glassmorphism UI with backdrop blur               ✅
 
 📱 Fully Responsive (Mobile-first design)
 
