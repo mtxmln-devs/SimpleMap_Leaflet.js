@@ -1,4 +1,4 @@
-# 🗺️ SimpleMap — Interactive Map System
+# 🗺️ SimpleMap using Leaflet.js 
 ![image alt](https://github.com/mtxmln-devs/SimpleMap_Leaflet.js/blob/58425a85f43d76f64a86ed68b2229b285207cf90/map.png)
 
 ## A quality interactive map system built with **Leaflet.js** featuring clustering, heatmaps, animations, search, responsive design, and premium UI/UX.
